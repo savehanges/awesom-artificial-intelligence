@@ -129,6 +129,9 @@ Contributions most welcome.
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+* [Professional and In-Depth Artificial Intelligence Video Courses Updagted](https://ifreecourses.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
+* [Professional and In-Depth Deep Learning Video Courses Updated](https://ifreecourses.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+* [Creating Amazing Videos Using Artificial Intelligence.](https://ifreecourses.com/creating-amazing-videos-using-artificial-intelligence/) - Learn How To Create Videos Using Artificial Intelligence Tips and Tricks of Video Content Creation. Creating Amazing Videos Using Artificial Intelligence.
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
