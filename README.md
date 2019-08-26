@@ -72,7 +72,6 @@ Contributions most welcome.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](http://www.cs.fsu.edu/~cap5605/Luger_0136070477_1.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
-
 ## Philosophy
 
 * [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
@@ -126,11 +125,9 @@ Contributions most welcome.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
-* [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
-* [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
-* [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
-* [Professional and In-Depth Artificial Intelligence Video Courses Updagted](https://ifreecourses.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
-* [Professional and In-Depth Deep Learning Video Courses Updated](https://ifreecourses.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+* [Professional and In-Depth Machine Learning Video Courses](https://ifreecouses.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
+* [Professional and In-Depth Artificial Intelligence Video Courses](https://ifreecourses.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
+* [Professional and In-Depth Deep Learning Video Courses](https://ifreecourses.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Creating Amazing Videos Using Artificial Intelligence.](https://ifreecourses.com/creating-amazing-videos-using-artificial-intelligence/) - Learn How To Create Videos Using Artificial Intelligence Tips and Tricks of Video Content Creation. Creating Amazing Videos Using Artificial Intelligence.
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data
