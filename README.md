@@ -1,5 +1,4 @@
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Awesome Artificial Intelligence (AI) [![Awesome]
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 Contributions most welcome.
@@ -125,7 +124,7 @@ Contributions most welcome.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
-* [Professional and In-Depth Machine Learning Video Courses](https://ifreecouses.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
+* [Professional and In-Depth Machine Learning Video Courses](https://ifreecourses.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://ifreecourses.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://ifreecourses.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Creating Amazing Videos Using Artificial Intelligence.](https://ifreecourses.com/creating-amazing-videos-using-artificial-intelligence/) - Learn How To Create Videos Using Artificial Intelligence Tips and Tricks of Video Content Creation. Creating Amazing Videos Using Artificial Intelligence.
